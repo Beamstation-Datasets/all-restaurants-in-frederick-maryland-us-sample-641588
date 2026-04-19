@@ -9,9 +9,9 @@
 | Dataset ID | `641588` |
 | Location | Frederick |
 | Category | Restaurants |
-| Full dataset size | 523 records |
-| Free sample size | 52 records (9.94%) |
-| Last export | 2026-04-09T12:23:27.572801+00:00 |
+| Full dataset size | 522 records |
+| Free sample size | 52 records (9.96%) |
+| Last export | 2026-04-16T12:22:30.522292+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-frederick-maryland-us-sample-641588/releases/download/sample-latest/beamstation_641588_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
