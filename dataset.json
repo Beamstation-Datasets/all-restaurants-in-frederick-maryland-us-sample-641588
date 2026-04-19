@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Frederick in the Mid-Atlantic. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Frederick, Maryland, US",
-  "export_job_id": "ae687a9a-7c15-4ae2-bff3-8652b6993ce8",
+  "export_job_id": "5789ae4a-6166-4018-9cb7-221d4f148fcd",
   "github_org": "Beamstation-Datasets",
   "id_short": 641588,
   "location_name": "Frederick",
   "location_type": "city",
   "repo_name": "all-restaurants-in-frederick-maryland-us-sample-641588",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/641588/beamstation_641588_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_pct": 9.94,
+  "sample_pct": 9.96,
   "sample_records": 52,
-  "sample_sha256": "888318fbec1a08f1055e399c141f155fb3b7d17077f8c0846e1573137f6a614e",
-  "sample_size_bytes": 190504,
-  "total_records": 523,
-  "updated_at": "2026-04-09T12:23:27.572801+00:00"
+  "sample_sha256": "eaf7d782b17a590fdfb5e3b578146e5d2bfef5436bd6aa77167536bdde999121",
+  "sample_size_bytes": 197086,
+  "total_records": 522,
+  "updated_at": "2026-04-16T12:22:30.522292+00:00"
 }
