@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d7b1daee-4613-445d-894f-9e08587ec71e",
+  "export_job_id": "653ed1ee-854d-40f9-baad-5a50ed55337c",
   "id_short": 641588,
-  "published_at": "2026-04-23T19:33:08Z",
+  "published_at": "2026-04-30T19:29:04Z",
   "repo_name": "all-restaurants-in-frederick-maryland-us-sample-641588",
   "sample_asset_name": "beamstation_641588_restaurants-us-md_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/641588/beamstation_641588_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_records": 44,
-  "sample_sha256": "8cefa3acd774c5cd6e5e257de9464c6823aa097ca547f6fe330e4d8f72d5c912",
-  "sample_size_bytes": 171637,
-  "total_records": 442
+  "sample_records": 53,
+  "sample_sha256": "fe389569c8a9805ff9e641d6705a64680cc28e170121d3ef051fe7d4187e01da",
+  "sample_size_bytes": 197825,
+  "total_records": 534
 }
