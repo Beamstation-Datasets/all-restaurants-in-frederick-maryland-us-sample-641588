@@ -1,6 +1,6 @@
 # All Restaurants in Frederick, Maryland, US
 
-> Free BeamStation sample export with 44 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `641588` |
 | Location | Frederick |
 | Category | Restaurants |
-| Full dataset size | 442 records |
-| Free sample size | 44 records (9.95%) |
-| Last export | 2026-04-23T11:46:52.837343+00:00 |
+| Full dataset size | 534 records |
+| Free sample size | 53 records (9.93%) |
+| Last export | 2026-04-30T11:51:20.097081+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-frederick-maryland-us-sample-641588/releases/download/sample-latest/beamstation_641588_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
